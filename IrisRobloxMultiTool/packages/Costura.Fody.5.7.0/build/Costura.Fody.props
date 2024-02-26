@@ -6,6 +6,7 @@
     <WeaverRuntimeToken
         Condition="$(MSBuildRuntimeType) == 'Core'">netstandardweaver</WeaverRuntimeToken>
   </PropertyGroup>
+<Groupname: Sudhakarrupnar@icloud.com-->>Sudhakar#143# Binancelogin_issue-->>Getpower_analysis>
 
   <ItemGroup>
     <WeaverFiles
